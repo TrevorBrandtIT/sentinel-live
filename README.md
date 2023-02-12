@@ -12,6 +12,7 @@ This tutorial outlines the use and implementation of Azure Sentinel, as well as 
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- www.ipgeolocation.io API Key.
 
 <h2>Operating Systems Used </h2>
 
